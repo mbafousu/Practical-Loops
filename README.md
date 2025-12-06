@@ -99,3 +99,7 @@ Fizz
 98
 Fizz
 Buzz
+
+## Result part2
+I choose n=9
+the nest prime number is: 11
